@@ -79,6 +79,16 @@ div.paragraphe-page1 {
         margin-left: 300px;
 }
 
+div.paragraphe-page2 {
+        display: block;
+        font-family:  'Georgia', sans-serif;
+        font-size: 25px;
+        text-align: center;
+        color: #ffffff;
+        margin-right: 0px;
+        margin-left: 0px;
+}
+
 div.title {
         display: flex;
         justify-content: center;
@@ -99,6 +109,7 @@ div.image{
 }
 
 div.image-child {
+        font-family: 'Times New Roman', sans-serif;
         font-style: italic;
         color: #ffffff;
 }
