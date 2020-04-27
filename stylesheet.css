@@ -73,6 +73,7 @@ div.block {
 
 div.paragraphe-page1 {
         display: block;
+        text-align: center;
         color: #ffffff;
         margin-right: 300px;
         margin-left: 300px;
@@ -86,4 +87,18 @@ div.title {
         font-size: 500%;
         padding-top: 50px;
         padding-bottom: 50px;
+}
+
+div.bloc_image {
+        flex-direction: column;
+        justify-content: center;
+}
+
+div.image{
+        width: auto;
+}
+
+div.image-child {
+        font-style: italic;
+        color: #ffffff;
 }
